@@ -3,7 +3,6 @@ import dotenv from "dotenv";
 import express from "express";  
 //index.js
 import { selectUsuarios, selectUsuario } from "./bd.js";
-import { selectUsuarios } from "./bd.js";
 
 //index.js
 dotenv.config();

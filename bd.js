@@ -26,7 +26,7 @@ async function selectUsuario(id) {
 
 
 export { selectUsuarios, selectUsuario };
-export { selectUsuarios };
+
 
 
 
