@@ -24,7 +24,6 @@ async function selectUsuario(id) {
   return res.rows;
 }
 
-
 export { selectUsuarios, selectUsuario };
 
 
